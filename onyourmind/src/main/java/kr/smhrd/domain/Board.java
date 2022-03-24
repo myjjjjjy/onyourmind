@@ -6,6 +6,7 @@ public class Board {
 	private String title; 
 	private String content; 
 	private String writer; 
+	private String joindate; 
 	private String indate; //(2022-03-16) 형식으로! 
 	private String count;
 	
